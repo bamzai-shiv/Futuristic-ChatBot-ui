@@ -11,7 +11,6 @@ NEURAL_OS is a high-fidelity, spatial UI chatbot platform inspired by the clean,
 * **Multimodal Input**: Integrated image preview rail and file-handling logic for visual analysis.
 * **Adaptive Sidebar**: A production-ready, hover-aware sidebar that handles collapsed and expanded states without layout shifts.
 * **Aura Engine**: A dynamic, CSS-animated radial gradient background that creates a living "breathing" interface.
-* **Responsive Prototyping**: Complete end-to-end templates for Terminal, History, Settings, and Authorization.
 
 ---
 
